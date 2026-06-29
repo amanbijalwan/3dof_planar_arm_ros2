@@ -7,6 +7,11 @@ Currently the implementation can be tested with Rviz2, we can use standard joint
 
 This project demonstrates a simple 3-DOF planar robotic arm in ROS2, visualized in RViz, with an interactive inverse kinematics (IK) slider GUI.
 
+### Update
+Robot model updated to SCARA type in 3dof configuration, in same file.
+<img width="1195" height="783" alt="image" src="https://github.com/user-attachments/assets/1bd502b7-3dd9-44db-951f-eb2f1fabd1b1" />
+
+
 ## Components
 - **URDF/Xacro**: Defines the arm links and joints.
 - **robot_state_publisher**: Publishes transforms from the URDF.
