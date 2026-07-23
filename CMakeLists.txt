@@ -18,4 +18,10 @@ install(DIRECTORY urdf
   DESTINATION share/${PROJECT_NAME}/
 )
 
+install(PROGRAMS
+  scripts/arm_fk_pub.py
+  DESTINATION lib/${PROJECT_NAME}
+)
+
+
 ament_package()
