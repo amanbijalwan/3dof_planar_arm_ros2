@@ -10,6 +10,9 @@ This project demonstrates a simple 3-DOF planar robotic arm in ROS2, visualized 
 ### Update
 Robot model updated to SCARA type in 3dof configuration, in same file.
 <img width="1195" height="783" alt="image" src="https://github.com/user-attachments/assets/1bd502b7-3dd9-44db-951f-eb2f1fabd1b1" />
+### *New Changes
+#### 1. Robot motion from programmed point set, hard coded for now.
+#### 2. Linear interpolation for joint motions...
 
 
 ## Components
