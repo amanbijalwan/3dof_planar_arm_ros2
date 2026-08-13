@@ -73,11 +73,6 @@ Visualization Manager:
           Show Axes: false
           Show Trail: false
           Value: true
-        ee_link:
-          Alpha: 1
-          Show Axes: false
-          Show Trail: false
-          Value: true
         link1:
           Alpha: 1
           Show Axes: false
@@ -162,10 +157,10 @@ Visualization Manager:
       Invert Z Axis: false
       Name: Current View
       Near Clip Distance: 0.009999999776482582
-      Pitch: 0.8153979778289795
+      Pitch: 0.16539806127548218
       Target Frame: <Fixed Frame>
       Value: Orbit (rviz)
-      Yaw: 0.7653982043266296
+      Yaw: 0.8153981566429138
     Saved: ~
 Window Geometry:
   Displays:
@@ -183,5 +178,5 @@ Window Geometry:
   Views:
     collapsed: false
   Width: 1200
-  X: 28
-  Y: 28
+  X: -32
+  Y: -10
